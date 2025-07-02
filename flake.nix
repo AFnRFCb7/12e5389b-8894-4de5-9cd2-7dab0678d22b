@@ -1,4 +1,7 @@
 {
-    description = "Encrypted secrets";
-    outputs = { self }: { };
+    inputs = { } ;
+    outputs =
+        { self } :
+            {
+            } ;
 }
